@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nir Ellor.
 - 👀 I’m interested in data analyst content.
-- 🌱 I’m currently learning Python, SQL, Excel and PoweBI. 
+- 🌱 I’m currently learning Python, SQL, Excel and PowerBI. 
 - 📫 How to reach me - nirellorwaizner@gmail.com
 - If you're curious about my age:
 
